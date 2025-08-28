@@ -113,5 +113,6 @@ to encourage further development of the tool.
 
   * quantumcore  
     https://github.com/quantumcore
-    
 
+  * Danscot
+    https://github.com/Danscot  
